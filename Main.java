@@ -162,7 +162,7 @@ class Hotel
                         System.out.print(j+11+",");
                     }
                 }
-                System.out.print("\nEnter room number: ");
+                System.out.print("\nEnter room number: 1 ");
                 try{
                 rn=sc.nextInt();
                 rn=rn-11;
