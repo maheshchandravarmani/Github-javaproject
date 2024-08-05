@@ -7,6 +7,8 @@ import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+//Need to add comments for better understanding
+
 class Food implements Serializable
 {
     int itemno;
