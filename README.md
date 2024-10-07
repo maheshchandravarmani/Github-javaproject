@@ -14,3 +14,5 @@ kind of unexpected exception.
 ##### Topics Covered-  
 Classes and Objects, Inheritance, File Handling with Objects, ArrayList, implementing
 Interface, User defined exception and Exception handling.
+
+This demonstrates java concepts alongwith modular programming approach in hotel management project.
